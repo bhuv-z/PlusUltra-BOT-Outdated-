@@ -1,3 +1,4 @@
+# CREDITS FOR CREATING THIS COG: EvieePy // https://gist.github.com/EvieePy
 import traceback
 import sys
 from discord.ext import commands
