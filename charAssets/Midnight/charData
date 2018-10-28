@@ -1,0 +1,8 @@
+030;Midnight;COUNTER SLEEP;When dealing damage, 5% chance to inflict Sleep status for 2 seconds
+1;1024;105;1024;1037;1024;1016;1016;5;1
+2;1272;112;1272;1311;1272;1248;1248;7;3
+3;1396;119;1396;1448;1396;1364;1364;8;10
+4;1520;126;1520;1585;1520;1480;1480;9;30
+5;1644;133;1644;1722;1644;1596;1596;10;100
+6;1768;140;1768;1859;1768;1712;1712;10;300
+https://image.ibb.co/ivYzdA/icon-0030-256.png;https://image.ibb.co/fPOXyA/icon-0030-Assemble.png
