@@ -71,7 +71,7 @@ async def about(ctx):
     aboutEmbed.set_thumbnail(url=bot.user.avatar_url)
     aboutEmbed.add_field(name="Made By", value=owner)
     aboutEmbed.add_field(name="Version", value=ver, inline=False)
-    aboutEmbed.add_field(name="Git Repository", value="link\n__\n__")
+    aboutEmbed.add_field(name="GitHub Repository", value="https://git.io/fxHXY\n__\n__")
     aboutEmbed.add_field(name="Contributor(s)", value="**TurboTacho#6590** - Data collection and compilation\n__\n__")
 
     await ctx.send(embed=aboutEmbed)
