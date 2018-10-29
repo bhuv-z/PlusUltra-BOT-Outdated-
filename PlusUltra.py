@@ -9,7 +9,7 @@ import datetime
 TOKEN = "<<TOKEN ID>>"
 
 Client = discord.Client()
-bot = commands.Bot(command_prefix="R!")
+bot = commands.Bot(command_prefix="R!", case_insensitive=True)
 ver = '1.0.0'
 
 bot.remove_command('help')  # remove default help command
